@@ -10,7 +10,7 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center"> 
-<a href="" target="_blank"> <img src="[https://user-images.githubusercontent.com/112888267/204089788-aba7a068-4a5d-4d39-bf2b-61bc274aee85.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png)" alt="html5" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204089788-aba7a068-4a5d-4d39-bf2b-61bc274aee85.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png)" alt="html5" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090263-7a9e9a6c-deea-41ef-af6c-0bb397c4aff7.png" alt="JavaScript" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090521-aecfb95f-937a-4e93-87cd-f356c4b96953.png" alt="Tailwind" width="40" height="40"/> </a> 
