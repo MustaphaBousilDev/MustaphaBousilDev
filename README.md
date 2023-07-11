@@ -11,10 +11,10 @@ I'm 1st year student at YouCode school. I'm a passionate learner who's always wi
 
 <p align="center"> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="60" height="60"/> </a> 
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090263-7a9e9a6c-deea-41ef-af6c-0bb397c4aff7.png" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090521-aecfb95f-937a-4e93-87cd-f356c4b96953.png" alt="Tailwind" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090330-309000f8-58dd-43bf-93c2-712723f69150.svg" alt="php" width="40" height="40"/> </a> </p>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="60" height="60"/> </a> 
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" width="60" height="60"/> </a> 
+<a href="" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" alt="Tailwind" width="60" height="60"/> </a> 
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="php" width="60" height="60"/> </a> </p>
 
 <p align="center">
 <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/112888267/204090398-bd9d5eb5-884b-47e1-88f5-b747478e5107.png" alt="MySql" width="40" height="40"/> </a> 
