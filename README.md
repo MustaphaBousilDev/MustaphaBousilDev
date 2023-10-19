@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustapha Bousil</h1>
 <h3 align="center">A passionate fullStack developer from Morroco</h3>
-<img width="400" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/648ff3661b1f075794e1b06f_backend%20developer.png" alt="Coding" />
+<img width="800" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/648ff3661b1f075794e1b06f_backend%20developer.png" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphabousildev&label=Profile%20views&color=0e75b6&style=flat" alt="mustaphabousildev" /> </p>
 
